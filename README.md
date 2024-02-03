@@ -23,6 +23,8 @@ Before running the bot, you need to set up some environment variables. Create a 
 
 Make sure to replace the values with your own information.
 
+Don't forget that you need to have `ffmpeg` installed on your machine through Chocolatey (Windows) or Linux. If necessary, you can change the path to the ffmpeg executable in `index.ts`
+
 ## Running the Bot
 
 After configuration, you can start the bot by running the following command:
